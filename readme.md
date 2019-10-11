@@ -69,7 +69,7 @@ To add the plugin's tracking code to your website just drop the Google Analytics
 
 ## Troubleshooting
 
-### Fix for erorr on key upload
+### Fix for error on key upload
 Disable adblock for the plugin backend
 
 ### Fix for Windows / XAMPP

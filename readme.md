@@ -69,6 +69,9 @@ To add the plugin's tracking code to your website just drop the Google Analytics
 
 ## Troubleshooting
 
+### Fix for erorr on key upload
+Disable adblock for the plugin backend
+
 ### Fix for Windows / XAMPP
 
 **cURL error 60: SSL certificate problem: unable to get local issuer certificate**
